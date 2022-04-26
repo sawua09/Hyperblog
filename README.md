@@ -15,4 +15,6 @@ Las cosas van increíbles!
 
 Incluye ejemplos en consola :)
 
+Otras cositas
+
 Este repositorio con el código y los textos son una prueba de que ya estoy por terminar mi curso :tw-1f604:
